@@ -1,0 +1,30 @@
+#buttons {
+        /* Positioning */
+        margin: 50px 0;
+        /* Typography */
+        text-align: center;
+      }
+      button {
+        /* Box-model */
+        width: 200px;
+        height: 75px;
+      }
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#buttons {
+  text-align: center;
+
+}
+
+div {
+  color: black;
+  text-align: center
+}
+
+body{
+  background-image: url("office.jpg")
+}
